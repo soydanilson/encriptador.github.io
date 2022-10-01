@@ -1,0 +1,203 @@
+@media screen and (max-width: 1046px) {
+	#logo {
+		left: 60px;
+	}
+
+	#main {
+		left: 130px;
+	}
+}
+
+@media screen and (max-width: 966px) {
+	#logo {
+		left: 40px;
+	}
+
+	#main {
+		left: 110px;
+	}
+}
+
+@media screen and (max-width: 945px) {
+	#logo {
+		left: 20px;
+	}
+
+	#main {
+		left: 100px;
+	}
+}
+
+@media screen and (max-width: 938px) {
+	#main {
+		left: 80px;
+	}
+}
+
+@media screen and (max-width: 907px) {
+	#main {
+		left: 50px;
+	}
+}
+
+@media screen and (max-width: 880px) {
+	#main {
+		left: 20px;
+	}
+
+	#mensaje {
+		right: 20px;
+	}
+
+	#muneco {
+		right: 20px;
+	}
+}
+
+@media screen and (max-width: 846px) {
+	#mensaje_1 {
+		width: 460px;
+	}
+
+	button {
+		margin-right: 10px;
+	}
+}
+
+
+/*tablet*/
+
+
+@media screen and (max-width: 810px) {
+	#mensaje {
+		right: 10px;
+	}
+
+	#muneco {
+		right: 10px;
+	}
+}  
+
+
+@media screen and (max-width: 768px) {
+	#main {
+		left: 120px;
+	}
+
+	button {
+		margin-right: 30px;
+	}
+
+	#boton_3 {
+		top: -5px;
+	}
+
+	#mensaje {
+		top: 720px;
+		width: 95%;
+		height: 70px;
+	}
+
+	#muneco {
+		top: 720px;
+		width: 95%;
+		height: 120px;
+	}
+
+	#muneco img {
+		display: none;
+	}
+
+	#mensaje_2 {
+	width: 55%;
+	height: 67px;
+    }
+}
+
+@media screen and (max-width: 648px) {
+	#main {
+		left: 90px;
+	}
+}
+
+@media screen and (max-width: 616px) {
+	#main {
+		left: 60px;
+	}
+}
+
+@media screen and (max-width: 586px) {
+	#main {
+		left: 30px;
+	}
+}
+
+@media screen and (max-width: 558px) {
+	#main {
+		left: 10px;
+	}
+
+	button {
+		margin-right: 10px;
+	}
+}
+
+@media screen and (max-width: 490px) {
+	#mensaje {
+		top: 800px;
+		height: 266px;
+	}
+
+	#boton_3 {
+		top: 181px;
+		right: 28px;
+	}
+
+	#muneco {
+		top: 800px;
+		height: 80px;
+	}
+
+	button {
+		width: 400px;
+	}
+
+	#mensaje_1 {
+		width: 99%;
+	}
+
+	#mensaje_2 {
+		width: 400px;
+		height: 140px;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	button {
+		width: 80%;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	button {
+		width: 90%;
+	}
+
+	#mensaje {
+		width: 90%;
+	}
+	
+	#muneco {
+		width: 90%;
+	}
+
+	#mensaje_2 {
+		width: 260px;
+	}
+}
+
+@media screen and (max-width: 339px) {
+	#muneco {
+		height: 120px;
+	}
+}
